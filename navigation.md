@@ -1,3 +1,3 @@
 # Checklisten Fechten
-[Fechter](checkliste-fechter.md)
-[Eltern](checkliste-eltern.md)
+[Fechter](fechter.md)
+[Eltern](eltern.md)
