@@ -12,7 +12,6 @@
 * Duschzeug, Handtuch, Badelatschen.
 * Fahrt zum Turnierort organisieren. (Bei erster/seltener Turnierteilnahme sollten doch besser die Eltern fahren.)
 * Geld, Handy, Etwas zum trösten ... Schockolade ...
-* Turnierausschreibung.
 * Lehre, Gewicht, Werkzeug...
 * Ersatzwaffen, Ersatzteile.
 ##### Fechtpass nicht am Turnierort vergessen! Als letzter nochmal nach liegen gebliebenen Fechtpässen aus Hamm fragen. :-)
