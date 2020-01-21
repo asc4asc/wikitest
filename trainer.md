@@ -4,6 +4,7 @@
 * Turnierausschreibung
 * Handy, Geld, Schlüssel
 * Lehre, Gewicht, Werkzeug...
-* Ersatzwaffen, Ersatzteile.
+* Ersatzwaffen, Ersatzteile
+* Schreibzeug, Foto oder Film
 
 Fahrt zum Tunierort organisieren.
