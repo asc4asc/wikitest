@@ -1,4 +1,4 @@
 [gimmick:theme](flatly)
 # Checklisten Fechten
-[Fechter](ChecklisteFechter.md)
-[Eltern](ChecklisteEltern.md)
+[Fechter](checkliste-fechter.md)
+[Eltern](checkliste-eltern.md)
