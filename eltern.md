@@ -1,9 +1,11 @@
 ## Checkliste Eltern:
 
 * Getränke, Essen
-* Checkliste Fechter(Kind) falls nötig prüfen
-* Fahrt zum Tunierort organisieren. (Bei erster/seltener Turnierteilnahme sollten doch besser die Eltern fahren.)
+* Auch die Checkliste Fechter(Kind) falls nötig prüfen.
+* Fahrt zum Tunierort organisieren.
 * Geld, Handy, Etwas zum trösten ... Schockolade ...
+* Etwas zum Fotos machen.
+* Werkzeug?
 #### Fechtpass nicht am Turnierort vergessen!
 
 ```

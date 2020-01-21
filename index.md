@@ -4,16 +4,17 @@
 
 ### Komplette Checkliste:
 * Fechtpass, Lizenzausdruck, Gesundheitszeugniss, Turnierausschreibung.
-* Maske, Handschuh, Jacke, Plaston, Turnschuhe, Fechtsocken, Fechthose - Brustschutz  
-* Trainigshose, Trainigsjacke.
-* Kabel mid. 2 Waffen mind. 2
+* Maske, Handschuh, Jacke, Plaston, Turnschuhe, Fechtsocken, Fechthose, Brustschutz  
+* Trainigshose, Trainigsjacke
+* mindestens 2 Kabel und Waffen.
 * T-Schirts .... zum wechseln
-* Getränke, Essen.
-* Duschzeug, Handtuch, Badelatschen.
-* Fahrt zum Turnierort organisieren. (Bei erster/seltener Turnierteilnahme sollten doch besser die Eltern fahren.)
+* Getränke, Essen
+* Duschzeug, Handtuch, Badelatschen, Wäsche zum wechseln
+* Fahrt zum Turnierort organisieren.
 * Geld, Handy, Etwas zum trösten ... Schockolade ...
 * Lehre, Gewicht, Werkzeug...
-* Ersatzwaffen, Ersatzteile.
+* Ersatzwaffen, Ersatzteile
+* Werkzeug, Gewicht, Lehre
 ##### Fechtpass nicht am Turnierort vergessen! Als letzter nochmal nach liegen gebliebenen Fechtpässen aus Hamm fragen. :-)
 
 ```

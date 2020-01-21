@@ -1,8 +1,8 @@
 #### Checkliste:
-* Maske,  Jacke, Plaston, Fechthose, Turnschuhe, Fechtsocken, Handschuh - Brustschutz
+* Maske, Jacke, Plaston, Fechthose, Turnschuhe, Fechtsocken, Handschuh, Brustschutz
 * Trainigshose, Trainigsjacke
 * Getränke, Essen
-* 2 Kabel, 2 Waffen 
+* 2 Kabel, 2 Waffen (geprüft)
 * T-Schirts .... zum wechseln
 * Duschzeug, Handtuch, Badelatschen.
 * Fechtpass, Lizenzausdruck, Gesundheitszeugniss, Turnierausschreibung.
