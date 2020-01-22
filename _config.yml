@@ -2,9 +2,9 @@
 title                  : JUST FENCING
 
 # remote_theme: "mmistakes/so-simple-theme@3.2.0" 
-# remote_theme: "mmistakes/so-simple-theme" 
+remote_theme: "mmistakes/so-simple-theme" 
 
-remote_theme: "mmistakes/minimal-mistakes" 
+# remote_theme: "mmistakes/minimal-mistakes" # irgendwie nix 
 # remote_theme: "mmistakes/jekyll-theme-basically-basic" 
 
 # remote_theme: "pmarsceill/just-the-docs"
