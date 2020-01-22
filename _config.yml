@@ -1,10 +1,12 @@
+theme: minimal-mistakes-jekyll
+
 plugins:
   - jekyll-relative-links
   - jekyll-paginate
   - jekyll-sitemap
   
 # Name of website
-title: Wiki Test 6
+title: Wiki Test 7
 
 # Short description of your site
 description: Wiki Test a virtual proof that I'm awesome
