@@ -1,8 +1,10 @@
 # Site navigation links
 
+- title: Home
+  url: /
 - title: Fechter
-  url: fechter.md
+  url: /fechter/
 - title: Eltern
-  url: eltern.md
+  url: /eltern/
 - title: Trainer
-  url: trainer.md
+  url: /trainer/
