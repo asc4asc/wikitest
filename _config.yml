@@ -24,7 +24,7 @@ include:
   - fechter.md
   - trainer.md
   
-  defaults:
+defaults:
   -
     scope:
       path: ""
