@@ -4,17 +4,25 @@ plugins:
   - jekyll-sitemap
   
 # Name of website
-title: Wiki Test 2
+title: Wiki Test 3
 
 # Short description of your site
 description: Wiki Test a virtual proof that I'm awesome
 
-### Build settings
-markdown: kramdown
-#highlighter: pygments
-kramdown:
-        input: GFM
-        syntax_highlighter: rouge
-plugins: [jekyll-paginate]
-paginate: 5
-excerpt_separator: <!-- more -->
+defaults:
+  - scope:
+      path: _pages/intro
+      type: pages
+    values:
+      layout: single
+      classes: wide
+      sidebar:
+        nav: "intro" 
+  - scope:
+      path: _pages/core
+      type: pages
+    values:
+      layout: single
+      classes: wide
+      sidebar:
+        nav: "core"
