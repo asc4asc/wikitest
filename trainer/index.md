@@ -1,5 +1,4 @@
 # Checkliste Trainer:
-
 * Getränke, Essen
 * Turnierausschreibung
 * Handy, Geld, Schlüssel
