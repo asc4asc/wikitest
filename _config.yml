@@ -3,43 +3,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   
-relative_links:
-  enabled: true
-  collections: true
-
 # Name of website
-title: Wiki Test
+title: Wiki Test 1
 
 # Short description of your site
 description: Wiki Test a virtual proof that I'm awesome
-
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: default
-      topnav: topnav
-      footer: footer
-  - scope:
-      path: ""
-      type: docs
-    values:
-      layout: default
-      topnav: topnav
-      footer: footer
-  - scope:
-      path: ""
-      type: search
-    values:
-      layout: default
-      topnav: topnav
-      footer: footer
-      type: search
-      sidebar: jekyllhowto
-
-  - scope:
-      path: "images"
-    values:
-      image: true
-
