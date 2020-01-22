@@ -7,7 +7,7 @@
 remote_theme: "pmarsceill/just-the-docs"
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: "dark"
-
+search_enabled: false
 # remote_theme: "mattgraham/midnight" # scheinbar nix 
 
 plugins:
