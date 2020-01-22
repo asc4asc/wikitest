@@ -4,7 +4,7 @@ plugins:
   - jekyll-sitemap
   
 # Name of website
-title: Wiki Test 5
+title: Wiki Test 6
 
 # Short description of your site
 description: Wiki Test a virtual proof that I'm awesome
@@ -16,28 +16,16 @@ docs:
   - title: Getting Started
     children:
       - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
+        url: /fechter
       - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
-
+        url: /trainer
+      
 defaults:
   - scope:
-      path: _pages/fechter
+      path: _pages
       type: pages
     values:
       layout: single
       classes: wide
       sidebar:
-        nav: "intro" 
-  - scope:
-      path: _pages/trainer
-      type: pages
-    values:
-      layout: single
-      classes: wide
-      sidebar:
-        nav: "core"
+        nav: "docs" 
