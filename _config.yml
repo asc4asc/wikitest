@@ -1,8 +1,8 @@
 # Name of website
-# title                  : Wiki Test 21
+title                  : JUST FENCING
 
 # remote_theme: "mmistakes/so-simple-theme@3.2.0" 
-# remote_theme: "mmistakes/so-simple-theme" 
+remote_theme: "mmistakes/so-simple-theme" 
 
 # remote_theme: "pmarsceill/just-the-docs"
 # Color scheme currently only supports "dark" or nil (default)
@@ -10,7 +10,7 @@
 # search_enabled: false
 
 # remote_theme: "mattgraham/midnight" # scheinbar nix 
-remote_theme: "mattvh/jekyllthemes" 
+# remote_theme: "mattvh/jekyllthemes" 
 
 plugins:
   - jekyll-seo-tag
