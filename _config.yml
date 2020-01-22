@@ -1,12 +1,14 @@
 theme: minimal-mistakes-jekyll
 
+minimal_mistakes_skin: "dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
 plugins:
   - jekyll-relative-links
   - jekyll-paginate
   - jekyll-sitemap
   
 # Name of website
-title: Wiki Test 7
+title: Wiki Test 8
 
 # Short description of your site
 description: Wiki Test a virtual proof that I'm awesome
