@@ -1,4 +1,4 @@
-# Checkliste:
+# Checkliste Trainer:
 
 * Getränke, Essen
 * Turnierausschreibung
