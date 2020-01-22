@@ -1,12 +1,8 @@
 # Site navigation links
 
-- title: Posts
-  url: /posts/
-- title: Categories
-  url: /categories/
-- title: Tags
-  url: /tags/
-- title: Recipes
-  url: /recipes/
-- title: Search
-  url: /search/
+- title: Fechter
+  url: /fechter.md
+- title: Eltern
+  url: /eltern.md
+- title: Trainer
+  url: /trainer.md
