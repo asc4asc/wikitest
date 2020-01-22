@@ -23,3 +23,38 @@ navbar-links:
 include:
   - fechter.md
   - trainer.md
+  
+  defaults:
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      topnav: topnav
+      footer: footer
+  -
+    scope:
+      path: ""
+      type: docs
+    values:
+      layout: default
+      topnav: topnav
+      footer: footer
+  -
+    scope:
+      path: ""
+      type: search
+    values:
+      layout: default
+      topnav: topnav
+      footer: footer
+      type: search
+      sidebar: jekyllhowto
+
+  -
+    scope:
+      path: "images"
+    values:
+      image: true
+
