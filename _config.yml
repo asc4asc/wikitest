@@ -9,9 +9,24 @@ title: Wiki Test 4
 # Short description of your site
 description: Wiki Test a virtual proof that I'm awesome
 
+sidebar:
+  nav: "docs"
+  
+docs:
+  - title: Getting Started
+    children:
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
+      - title: "Structure"
+        url: /docs/structure/
+      - title: "Installation"
+        url: /docs/installation/
+      - title: "Upgrading"
+        url: /docs/upgrading/
+
 defaults:
   - scope:
-      path: _pages/intro
+      path: _pages/fechter
       type: pages
     values:
       layout: single
@@ -19,7 +34,7 @@ defaults:
       sidebar:
         nav: "intro" 
   - scope:
-      path: _pages/core
+      path: _pages/trainer
       type: pages
     values:
       layout: single
