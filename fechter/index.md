@@ -1,4 +1,4 @@
-#### Checkliste:
+# Checkliste Fechter:
 * Maske, Jacke, Plaston, Fechthose, Turnschuhe, Fechtsocken, Handschuh, Brustschutz
 * Trainigshose, Trainigsjacke
 * Getränke, Essen
