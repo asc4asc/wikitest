@@ -2,11 +2,9 @@ theme: jekyll-theme-minimal
 
 sidebar:
   - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
     text: "Some text here."
   - title: "Another Title"
     text: "More text here."
   
 # Name of website
-title: Wiki Test 11
+title: Wiki Test 13
