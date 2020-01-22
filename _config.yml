@@ -3,6 +3,12 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+  Author's home: "http://deanattali.com"
 include:
   - fechter.md
   - trainer.md
