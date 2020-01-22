@@ -3,10 +3,8 @@ title                  : Wiki Test 19
 
 remote_theme: "mmistakes/so-simple-theme@3.2.0" 
 
-layout: categories
-
-# Aux links for the upper right navigation
-aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
-
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
