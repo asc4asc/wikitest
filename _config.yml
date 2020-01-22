@@ -4,7 +4,7 @@
 # remote_theme: "mmistakes/so-simple-theme@3.2.0" 
 # remote_theme: "mmistakes/so-simple-theme" 
 # remote_theme: "pmarsceill/just-the-docs"
-remote_theme: mattgraham/midnight 
+remote_theme: "mattgraham/midnight"
 
 plugins:
   - jekyll-seo-tag
