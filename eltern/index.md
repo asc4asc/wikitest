@@ -1,4 +1,3 @@
-
 #Checkliste Eltern:
 
 * Getränke, Essen
