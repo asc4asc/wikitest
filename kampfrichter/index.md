@@ -1,4 +1,4 @@
-# Checkliste:
+# Checkliste Kampfrichter:
 * Getränke, Essen
 * Fechtpass, Lizenzausdruck, Turnierausschreibung, Schreibgerät.
 
